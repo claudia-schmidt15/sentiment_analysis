@@ -1,7 +1,7 @@
 # sentiment_analysis
 ## Mapping Negative Sentiment in U.S. College Subreddits
 
-Janurary to May 2024, Data Mining (CS 470), Emory University 
+Janurary to May 2024 - Data Mining (CS 470), Emory University 
 
 This project analyzes negative sentiment in U.S. college subreddit posts to better understand the drivers of student stress and how these differ across institutions. Using Python and NLP techniques, we built a pipeline to classify themes such as academic pressure, financial concerns, health & wellness, and social/personal issues.
 
